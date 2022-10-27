@@ -15,4 +15,4 @@ Please fork this repository and then issue pull request
 
 
 ### Copyright
-2014 Git.Training
+2014 Git.Training Allright reserved
